@@ -3,3 +3,4 @@ chache/
 .env
 .env.prod
 .env.test
+temp/
