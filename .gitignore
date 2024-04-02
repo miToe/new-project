@@ -1,2 +1,5 @@
 .DS_Store
 chache/
+.env
+.env.prod
+.env.test
